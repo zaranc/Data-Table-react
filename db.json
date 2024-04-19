@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "50be",
+      "name": "watch-1",
+      "price": "200"
+    },
+    {
+      "id": "df9e",
+      "name": "mobile",
+      "price": "1000"
+    },
+    {
+      "id": "f0f4",
+      "name": "laptop",
+      "price": "2390"
+    },
+    {
+      "id": "354b",
+      "name": "bike",
+      "price": "3890"
+    },
+    {
+      "id": "c9bf",
+      "name": "ring",
+      "price": "290"
+    }
+  ]
+}
